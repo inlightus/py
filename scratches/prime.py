@@ -1,5 +1,5 @@
 # encoding:utf-8
-
+# deriving a list of prime numbers
 def get_primes(n):
     primes = [2]
     l_odds = [i for i in range(3, n + 1) if i % 2 == 1]
