@@ -13,5 +13,5 @@ def get_primes(n):
             if c == len(primes):
                 primes.append(l_odd)
     print(primes)
-    
+ 
 get_primes(10 ** 3)
