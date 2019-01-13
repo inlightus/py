@@ -1,4 +1,3 @@
-# encoding:utf-8
 # deriving a list of prime numbers
 
 def get_primes(n):

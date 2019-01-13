@@ -1,5 +1,3 @@
-# encoding: utf-8
-
 def fib(n):
     a, b = 1, 1
 
