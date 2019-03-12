@@ -1,0 +1,15 @@
+/problem_solving/pftp/*
+/book-mlearn-gyomu
+/scraping/detect_face/data
+/scraping/detect_face/facedata
+/scraping/detect_face/Others
+/scraping/detect_face/testdata
+/scraping/detect_face/haarcascade_frontalface_alt.xml
+/problem_solving/pftp/*
+bin/
+include/
+lib/
+
+
+
+
