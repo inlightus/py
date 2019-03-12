@@ -6,9 +6,9 @@
 /scraping/detect_face/testdata
 /scraping/detect_face/haarcascade_frontalface_alt.xml
 /problem_solving/pftp/*
-bin/
-include/
-lib/
+/bin/
+/include/
+/lib/
 
 
 
